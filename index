@@ -3,13 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Autoplay Audio</title>
+    <title>Test Page</title>
 </head>
 <body>
-    <audio autoplay loop>
-        <source src="https://drive.google.com/uc?export=open&id=1ebdFnDOfvz0_BfFFeU0K7JmmGPn8v1v9" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
+    <h1>Hello, GitHub Pages Works!</h1>
 </body>
 </html>
-
